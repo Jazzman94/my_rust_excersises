@@ -4,7 +4,7 @@ This repository is primarily created for my educational purposes, set up publicl
 ## List of Exercises
 - [x] guessing_game: Guessing games (https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
 - [x] carol: Print the lyrics to the Christmas carol “The Twelve Days of Christmas,” taking advantage of the repetition in the song. (https://doc.rust-lang.org/book/ch03-05-control-flow.html)
-- [ ] 
+- [x] fibonacci_sequance: Generate the nth Fibonacci number.
 
 ## How to Run Exercises
 Each exercise has its own directory, with the code in the src file. To run you can use cargo run or rustc commands
