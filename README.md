@@ -11,6 +11,7 @@ Each exercise has its own directory, with the code in the src file. To run you c
 
 ## Resources
 [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html)
+
 [Exercism Rust Track](https://exercism.org/tracks/rust)
 
 If you want, leave me a message, I always appreciate tips and tricks.
