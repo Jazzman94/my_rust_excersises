@@ -1,5 +1,5 @@
 fn main() {
-    let n: u32 = 100;
+    let n: u32 = 8;
     let mut fib: Vec<u32> = vec![1,1];
 
     for number in 2..n {
